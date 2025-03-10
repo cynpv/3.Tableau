@@ -88,3 +88,27 @@ empleado.
 #### 4. Crea un nuevo repositorio en GitHub y en tu archivo README.md, describe los
 #### resultados del análisis basados en los gráficos creados en Tableau, e incluye el
 #### enlace a tu perfil en Tableau Public.**
+
+
+
+
+
+## Resultados:
+
+Tableau Public: https://public.tableau.com/app/profile/cynthia.pimentel.vazquez/viz/Libro2_17415725248060/Dashboard1?publish=yes
+
+* Relación entre satisfacción y salario: Parece haber una tendencia positiva entre la satisfacción del empleado y el salario promedio, lo que sugiere que mayores salarios pueden estar asociados con mayor satisfacción.
+
+* Duración del empleo por departamento: La duración promedio varía entre departamentos, lo que podría indicar diferencias en la estabilidad laboral o en las condiciones de trabajo dentro de cada área.
+
+* Retención por departamento: Algunos departamentos tienen una tasa de retención más alta que otros, lo que sugiere que ciertos equipos pueden tener mejores condiciones laborales o menor rotación.
+
+* Razones de salida del empleado: La nube de palabras destaca razones comunes de salida como "otra posición", "más dinero", "infeliz" y "cambio de carrera", lo que indica que la compensación y la satisfacción laboral son factores importantes en la rotación.
+
+
+
+
+
+
+
+
